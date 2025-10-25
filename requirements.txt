@@ -1,0 +1,5 @@
+bleak
+ring-doorbell
+openai
+simpleaudio
+requests
